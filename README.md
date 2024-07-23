@@ -31,6 +31,13 @@
 - WAF Detection
 - Tamper Techniques
 
+## Installation
+
+```
+pipx install git+https://github.com/hawkpubg/HeliosXSS.git
+```
+
+
 
 ## Usage
 
